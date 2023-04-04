@@ -4,7 +4,7 @@
   
      📚 Sou formado no curso Desenvolvedor Front End pela Faculdade XP Educação, além de ter formação como técnico em informática, pelo Senac Minas.
       
-     👩🏾‍🎓 Entre minhas principais habilidades destacam-se: 
+     👩🏾‍🎓 Entre minhas principais habilidades destacam-se: Comprometimento, pensamento lógico, persistência, trabalho em equipe, foco em resultados.
     
   </p>
 
